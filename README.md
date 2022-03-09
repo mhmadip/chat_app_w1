@@ -2,7 +2,9 @@
 Week 1 Chat App OOP2 ( Wed 9 March 2022)
 
 Our goals for today:
+
 1- To explore and undertand the app structure.
+
 2- To add navigation feature by using navigation routes and to be able see the screens on real phone devices or emulators before we make the fully-functional.
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
