@@ -6,6 +6,7 @@ Our goals for today:
 1- To explore and understand the app structure.
 
 2- To add navigation feature by using navigation routes and to be able see the screens on real phone devices or emulators before we make the fully-functional.
+
 3- Applying Hero Widget animation and typewriter animation using animated_text_kit
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
